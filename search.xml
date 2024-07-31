@@ -46,4 +46,70 @@
         <tag>辽金元</tag>
       </tags>
   </entry>
+  <entry>
+    <title>测试</title>
+    <url>/posts/9daba997/</url>
+    <content><![CDATA[<h1 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h1><h2 id="test2"><a href="#test2" class="headerlink" title="test2"></a>test2</h2><h3 id="test3"><a href="#test3" class="headerlink" title="test3"></a>test3</h3><p><img src="https://fastly.jsdelivr.net/gh/sanbuzhishanfang/tuchuang/img/%E7%A6%8F%E5%BB%BA%E5%B0%86%E4%B9%90%E5%8E%BF%E4%B8%8B%E5%BC%A0%E5%85%AC%E6%9D%91%E5%85%83%E4%BB%A3%E5%A3%81%E7%94%BB%E5%A2%931.png"></p>
+<p>This is my website, click the button <a class="btn-beautify " href="https://butterfly.js.org/" 
+  title="Butterfly"><span>Butterfly</span></a></p>
+<div class="timeline green"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2022</p>
+</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>01-02</p>
+</div></div><div class='timeline-item-content'><p>這是測試頁面</p>
+</div></div></div>
+
+<div class="flink"><div class="flink-name">友情鏈接</div><div class="flink-desc">那些人，那些事</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://jerryc.me/" title="JerryC" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://jerryc.me/img/avatar.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="JerryC" />
+              </div>
+              <div class="flink-item-name">JerryC</div> 
+              <div class="flink-item-desc" title="今日事,今日畢">今日事,今日畢</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://hexo.io/zh-tw/" title="Hexo" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Hexo" />
+              </div>
+              <div class="flink-item-name">Hexo</div> 
+              <div class="flink-item-desc" title="快速、簡單且強大的網誌框架">快速、簡單且強大的網誌框架</div>
+            </a>
+          </div></div><div class="flink-name">網站</div><div class="flink-desc">值得推薦的網站</div> <div class="flink-list">
+          <div class="flink-list-item">
+            <a href="https://www.youtube.com/" title="Youtube" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Youtube" />
+              </div>
+              <div class="flink-item-name">Youtube</div> 
+              <div class="flink-item-desc" title="視頻網站">視頻網站</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://www.weibo.com/" title="Weibo" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/TLJBum386vcnI1P.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Weibo" />
+              </div>
+              <div class="flink-item-name">Weibo</div> 
+              <div class="flink-item-desc" title="中國最大社交分享平台">中國最大社交分享平台</div>
+            </a>
+          </div>
+          <div class="flink-list-item">
+            <a href="https://twitter.com/" title="Twitter" target="_blank">
+              <div class="flink-item-icon">
+                <img class="no-lightbox" src="https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png" onerror='this.onerror=null;this.src="/img/friend_404.gif"' alt="Twitter" />
+              </div>
+              <div class="flink-item-name">Twitter</div> 
+              <div class="flink-item-desc" title="社交分享平台">社交分享平台</div>
+            </a>
+          </div></div></div>
+
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
 </search>
