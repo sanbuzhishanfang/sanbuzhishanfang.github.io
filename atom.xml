@@ -6,7 +6,7 @@
   <link href="https://sanbuzhishanfang.github.io/atom.xml" rel="self"/>
   
   <link href="https://sanbuzhishanfang.github.io/"/>
-  <updated>2024-08-01T08:54:20.633Z</updated>
+  <updated>2024-08-01T10:33:24.473Z</updated>
   <id>https://sanbuzhishanfang.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://sanbuzhishanfang.github.io/posts/7dd16661/"/>
     <id>https://sanbuzhishanfang.github.io/posts/7dd16661/</id>
     <published>2024-07-30T13:04:33.000Z</published>
-    <updated>2024-08-01T08:54:20.633Z</updated>
+    <updated>2024-08-01T10:33:24.473Z</updated>
     
     
       
@@ -39,7 +39,11 @@
     <category term="读书随记" scheme="https://sanbuzhishanfang.github.io/categories/%E8%AF%BB%E4%B9%A6%E9%9A%8F%E8%AE%B0/"/>
     
     
-    <category term="辽金元" scheme="https://sanbuzhishanfang.github.io/tags/%E8%BE%BD%E9%87%91%E5%85%83/"/>
+    <category term="辽" scheme="https://sanbuzhishanfang.github.io/tags/%E8%BE%BD/"/>
+    
+    <category term="金" scheme="https://sanbuzhishanfang.github.io/tags/%E9%87%91/"/>
+    
+    <category term="元" scheme="https://sanbuzhishanfang.github.io/tags/%E5%85%83/"/>
     
   </entry>
   
