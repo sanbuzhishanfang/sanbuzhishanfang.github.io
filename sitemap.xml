@@ -101,20 +101,6 @@
 
   
   <url>
-    <loc>https://sanbuzhishanfang.github.io/tags/%E6%B5%B7%E5%A4%96/</loc>
-    <lastmod>2024-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sanbuzhishanfang.github.io/tags/%E5%85%83/</loc>
-    <lastmod>2024-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sanbuzhishanfang.github.io/tags/%E6%98%8E/</loc>
     <lastmod>2024-08-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,17 +128,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://sanbuzhishanfang.github.io/categories/%E8%AF%BB%E4%B9%A6%E9%9A%8F%E8%AE%B0/</loc>
+    <loc>https://sanbuzhishanfang.github.io/tags/%E5%85%83/</loc>
     <lastmod>2024-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
+    <loc>https://sanbuzhishanfang.github.io/tags/%E6%B5%B7%E5%A4%96/</loc>
+    <lastmod>2024-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
     <loc>https://sanbuzhishanfang.github.io/categories/%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2024-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanbuzhishanfang.github.io/categories/%E8%AF%BB%E4%B9%A6%E9%9A%8F%E8%AE%B0/</loc>
     <lastmod>2024-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
